@@ -14,6 +14,7 @@ main{
 
 img {
     width: auto;
+    display: block;
     max-width: 100%;
     height: auto;
     margin: 0 auto;
@@ -50,6 +51,6 @@ li,#external-info,#image-caption {
     font-style: italic;
 }
 
-#image-caption {
+#img-caption {
     padding-top: 10px;
 }
