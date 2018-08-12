@@ -1,9 +1,7 @@
-#img-div{
-    position: relative;
-}
-#imgae {
-    position: absolute;
+
+img {
     width: auto;
     max-width: 100%;
-    height: auto
+    height: auto;
+    margin: 0 auto;
 }
