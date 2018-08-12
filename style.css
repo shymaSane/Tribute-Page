@@ -1,3 +1,15 @@
+main{
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    margin: 20px 10px;
+    
+}
+
+#main {
+    background-color: #FEF6F5;
+    border: 2px solid #FEF6F5;
+    border-radius: 30px;
+}
 
 img {
     width: auto;
@@ -5,3 +17,4 @@ img {
     height: auto;
     margin: 0 auto;
 }
+
