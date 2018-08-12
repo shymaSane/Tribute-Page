@@ -30,8 +30,26 @@ img {
     border-radius: 10px;
 }
 
+ul, h2 {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+h2{
+    padding: 20px;
+}
+
+li,#external-info,#image-caption {
+    padding: 5px 0;
+    font-size: 18px;
+}
+
+#external-info {
+    font-weight:bold;
+    font-style: italic;
+}
+
 #image-caption {
     padding-top: 10px;
 }
-
-
